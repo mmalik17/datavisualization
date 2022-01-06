@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Data Visualization Portofolio
+**with Tableau Public Software**
 
-You can use the [editor on GitHub](https://github.com/mmalik17/myreporsitory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Dashboard 1: Renewable Energy Overview in Europe
+This visualization dashboard is created based on the data from Ember climate organization that I found from MakeOver Monday challenge. It shows the trend of renewable energy generation in Europe, country ranking, and portion of energy source generation. The main insight is during 2010-2020, the portion/share of renewable energy generation in Europe is getting higher while the fossil fuel generation is getting lower. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Beside showing the data over Europe, I also provide the data of trend and portion in every single country in Europe. To access that, just click the dropdown between the word ‘Area’. 
 
-### Markdown
+[View Dashboard](https://public.tableau.com/app/profile/muchammad.malik/viz/EnergytransitioninEuropefinaledit/Dashboard2)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Dashboard 2: Discount overview of Superstore dataset
+Discount is one of the strategy to increase sales. However, too much discount would eliminate the profit, or even make a big loss. Hence, for evaluating sales performance, it is needed to identify which discount that would eliminate the profit or make a big loss. 
+This dashboard is based on sample superstore dataset, the data bank that provide the sales data of sample superstore in US. In this visualization, I design the dashboard the overview of discount in sample superstore. You can see which segment, product sub-category, or even customer that demand the big discount, and eliminate the profit of the sales.
 
-# Header 1
-## Header 2
-### Header 3
+[View Dashboard](https://public.tableau.com/app/profile/muchammad.malik/viz/Courseracourse-Discountoverviewofsuperstoredataset/SecondTrial)
 
-- Bulleted
-- List
+## Dashboard 3: Startup Overview Around the World: Growth and Distribution
+This dashboard is visualizing the startup distribution map, the founding of startup over time, and the startup category by its market. By looking to this dashboard, the reader could have insight about which market category that has the most number of startup or the biggest funding over time. In addition to that, I also add time and region filtering to generate more specific data by moving the slicer or clicking the dropdown menu.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmalik17/myreporsitory/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[View Dashboard](https://public.tableau.com/app/profile/muchammad.malik/viz/Startupoverview/StartupOverview)
