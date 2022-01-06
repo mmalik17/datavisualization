@@ -15,7 +15,8 @@ This dashboard is based on sample superstore dataset, the data bank that provide
 
 [View Dashboard](https://public.tableau.com/app/profile/muchammad.malik/viz/Courseracourse-Discountoverviewofsuperstoredataset/SecondTrial)
 
-##Dashboard 3: Startup Overview Around the World: Growth and Distribution
+## Dashboard 3: Startup Overview Around the World: Growth and Distribution
 This dashboard is visualizing the startup distribution map, the founding of startup over time, and the startup category by its market. By looking to this dashboard, the reader could have insight about which market category that has the most number of startup or the biggest funding over time. In addition to that, I also add time and region filtering to generate more specific data by moving the slicer or clicking the dropdown menu.
+
 [View Dashboard](https://public.tableau.com/app/profile/muchammad.malik/viz/Startupoverview/StartupOverview)
 
